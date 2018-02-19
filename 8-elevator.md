@@ -34,7 +34,7 @@ The idea here is: the first `if` needs to get a `false` from the `isLastFloor` f
 
 Wait a minute: `isLastFloor` is a `view` function, which means that:
 
-> Functions can be declared view in which case they promise not to modify the state.```
+> Functions can be declared view in which case they promise not to modify the state.
 
 How can we possibly make it return a different value while receiving the same argument if `isLastFloor` cannot modify state?
 
