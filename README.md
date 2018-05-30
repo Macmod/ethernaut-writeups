@@ -4,13 +4,13 @@ This repository is a collection of writeups for [Ethernaut](https://ethernaut.ze
 
 [Ethernaut](https://ethernaut.zeppelin.solutions/) is a small wargame consisting of 8 challenges regarding smart contract security, specifically focused on the Ethereum blockchain. While some of these challenges are mostly teasers to improve the player's knowledge of smart contracts, some are based on very real security issues which caused lots of money to be stolen.
 
-It's highly recommended to try the challenges if you are just now learning about smart contracts and intends to get a deeper understanding of potential problems with their development.
+It's highly recommended to try the challenges if you're just now learning about smart contracts and intend to get a deeper understanding of potential problems with their development.
 
 The game runs on the Ropsten testnet (so you don't need actual money to play) and you interact with it through Web3js and Metamask.
 
 [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) is a browser-based Ethereum wallet. [Web3js](https://github.com/ethereum/web3.js/) is a Javascript API for the Ethereum blockchain, allowing the player to interact with the blockchain via the browser console.
 
-Further instructions on how to play can be found [here](https://ethernaut.zeppelin.solutions/help). I'm not aware of whether the Zeppelin team plans on keeping the game online indefinitely, but decided to write these writeups anyway, mainly because I'm bored and want to share my solutions and thoughts with the community. *Update*: the game can also be [played locally](https://github.com/OpenZeppelin/ethernaut), since it's open source.
+Further instructions on how to play can be found [here](https://ethernaut.zeppelin.solutions/help). I'm not aware of whether the Zeppelin team plans on keeping the game online indefinitely, but decided to write these writeups anyway, mainly because I'm bored and want to share my solutions and thoughts with the community. **Update**: the game can also be [played locally](https://github.com/OpenZeppelin/ethernaut), since it's open source.
 
 Feel free to ask me for help if you need. My telegram handle is [@marzanol](tg://resolve?domain=marzanol). Also be aware I'm in no way an expert in this field and cannot provide any valuable insight into real life projects other than what can be learned from this game itself.
 
@@ -24,6 +24,16 @@ Feel free to ask me for help if you need. My telegram handle is [@marzanol](tg:/
 6. [King](6-king.md)
 7. [Reentrancy](7-reentrancy.md)
 8. [Elevator](8-elevator.md)
+9. [Telephone](9-telephone.md)
+10. [Vault](10-vault.md) (todo)
+11. [CoinFlip](11-coinflip.md) (todo)
+12. [Privacy](12-privacy.md) (todo)
+13. [Privacy](13-gatekeeper-1.md) (todo)
+14. [Privacy](14-gatekeeper-2.md) (todo)
+15. [Privacy](15-naughtcoin.md) (todo)
+
+
+PS: New challenges were added by the Zeppelin team and the order of the challenges was changed, so the order here doesn't match theirs anymore.
 
 # Resources
 * [Solidity Documentation](https://solidity.readthedocs.io/en/develop/):
