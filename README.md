@@ -28,9 +28,9 @@ Feel free to ask me for help if you need. My telegram handle is [@marzanol](tg:/
 10. [Vault](10-vault.md) (todo)
 11. [CoinFlip](11-coinflip.md) (todo)
 12. [Privacy](12-privacy.md) (todo)
-13. [Privacy](13-gatekeeper-1.md) (todo)
-14. [Privacy](14-gatekeeper-2.md) (todo)
-15. [Privacy](15-naughtcoin.md) (todo)
+13. [Gatekeeper One](13-gatekeeper-1.md) (todo)
+14. [Gatekeeper Two](14-gatekeeper-2.md) (todo)
+15. [Naught Coin](15-naughtcoin.md) (todo)
 
 
 PS: New challenges were added by the Zeppelin team and the order of the challenges was changed, so the order here doesn't match theirs anymore.
