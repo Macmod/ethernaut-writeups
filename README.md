@@ -2,7 +2,7 @@
 
 This repository is a collection of writeups for [Ethernaut](https://ethernaut.zeppelin.solutions/) challenges.
 
-[Ethernaut](https://ethernaut.zeppelin.solutions/) is a small wargame consisting of 8 challenges regarding smart contract security, specifically focused on the Ethereum blockchain. While some of these challenges are mostly teasers to improve the player's knowledge of smart contracts, some are based on very real security issues which caused lots of money to be stolen.
+[Ethernaut](https://ethernaut.zeppelin.solutions/) is a small wargame consisting of many challenges regarding smart contract security, specifically focused on the Ethereum blockchain. While some of these challenges are mostly teasers to improve the player's knowledge of smart contracts, some are based on very real security issues which caused lots of money to be stolen.
 
 It's highly recommended to try the challenges if you're just now learning about smart contracts and intend to get a deeper understanding of potential problems with their development.
 
