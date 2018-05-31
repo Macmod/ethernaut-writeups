@@ -26,7 +26,7 @@ Feel free to ask me for help if you need. My telegram handle is [@marzanol](tg:/
 8. [Elevator](8-elevator.md)
 9. [Telephone](9-telephone.md)
 10. [Vault](10-vault.md)
-11. [CoinFlip](11-coinflip.md) (todo)
+11. [CoinFlip](11-coinflip.md)
 12. [Privacy](12-privacy.md) (todo)
 13. [Gatekeeper One](13-gatekeeper-1.md) (todo)
 14. [Gatekeeper Two](14-gatekeeper-2.md) (todo)
